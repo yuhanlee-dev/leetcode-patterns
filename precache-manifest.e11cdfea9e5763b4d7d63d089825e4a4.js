@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "37ac17aec4992fe05e9a205b43f4589f",
+    "revision": "2dfdf28c9933c8302ae54abb4d45fd40",
     "url": "/leetcode-patterns/index.html"
   },
   {
