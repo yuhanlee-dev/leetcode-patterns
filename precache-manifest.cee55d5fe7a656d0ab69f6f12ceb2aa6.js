@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "725155c57b3f822bd0338e967c30c77f",
+    "revision": "fc477109d0405543b6d742b8ea443c53",
     "url": "/leetcode-patterns/index.html"
   },
   {
-    "revision": "dabca110d93f1a51c425",
+    "revision": "a2f81681bd31e14be9f5",
     "url": "/leetcode-patterns/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "7498c32bb77a58f01c37",
+    "revision": "fb4b76daabcc538b28e6",
     "url": "/leetcode-patterns/static/css/main.bd16d8da.chunk.css"
   },
   {
-    "revision": "dabca110d93f1a51c425",
-    "url": "/leetcode-patterns/static/js/2.7d96e0f2.chunk.js"
+    "revision": "a2f81681bd31e14be9f5",
+    "url": "/leetcode-patterns/static/js/2.f4bb81f8.chunk.js"
   },
   {
     "revision": "c93c8ec49ddf5bc7eb83c9836aeb13e5",
-    "url": "/leetcode-patterns/static/js/2.7d96e0f2.chunk.js.LICENSE"
+    "url": "/leetcode-patterns/static/js/2.f4bb81f8.chunk.js.LICENSE"
   },
   {
-    "revision": "7498c32bb77a58f01c37",
-    "url": "/leetcode-patterns/static/js/main.0da079c1.chunk.js"
+    "revision": "fb4b76daabcc538b28e6",
+    "url": "/leetcode-patterns/static/js/main.59b28ce0.chunk.js"
   },
   {
     "revision": "88d3b214b0e7593a2670",
