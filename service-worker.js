@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/leetcode-patterns/precache-manifest.69940a559c8047865a7509b4f13b6174.js"
+  "/leetcode-patterns/precache-manifest.1646288769db4e470f7473ab8f821b94.js"
 );
 
 self.addEventListener('message', (event) => {
