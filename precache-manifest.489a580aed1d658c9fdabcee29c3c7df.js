@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ad511d104f1b60d6216b602b03fc4d9",
+    "revision": "4ec7aa923bda34fc02fc10d41efe9631",
     "url": "/leetcode-patterns/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leetcode-patterns/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "8d80f5961e598b1226d5",
+    "revision": "7afddc8c6fcbdb7b7f34",
     "url": "/leetcode-patterns/static/css/main.1d3eb4bc.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leetcode-patterns/static/js/2.dc81bf79.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8d80f5961e598b1226d5",
-    "url": "/leetcode-patterns/static/js/main.4aa6d752.chunk.js"
+    "revision": "7afddc8c6fcbdb7b7f34",
+    "url": "/leetcode-patterns/static/js/main.b739a0ba.chunk.js"
   },
   {
     "revision": "01945b03266eb5b191fd",
