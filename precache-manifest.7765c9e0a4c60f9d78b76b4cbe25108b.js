@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d2c9e30b725ad8b0876ca966856f758a",
+    "revision": "b0113a433a5e96afe7f0ca15398d60cd",
     "url": "/leetcode-patterns/index.html"
   },
   {
-    "revision": "d95581a701d342560dd4",
-    "url": "/leetcode-patterns/static/css/2.46aa305b.chunk.css"
+    "revision": "199ba162cfe9d3e34ebd",
+    "url": "/leetcode-patterns/static/css/2.dee60294.chunk.css"
   },
   {
     "revision": "829aecbde7577d116789",
     "url": "/leetcode-patterns/static/css/main.e8f64cd4.chunk.css"
   },
   {
-    "revision": "d95581a701d342560dd4",
+    "revision": "199ba162cfe9d3e34ebd",
     "url": "/leetcode-patterns/static/js/2.9ee5b5bf.chunk.js"
   },
   {
