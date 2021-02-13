@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/leetcode-patterns/static/css/main.2dade6fb.chunk.css",
-    "main.js": "/leetcode-patterns/static/js/main.e820a676.chunk.js",
-    "main.js.map": "/leetcode-patterns/static/js/main.e820a676.chunk.js.map",
+    "main.js": "/leetcode-patterns/static/js/main.21cb0335.chunk.js",
+    "main.js.map": "/leetcode-patterns/static/js/main.21cb0335.chunk.js.map",
     "runtime-main.js": "/leetcode-patterns/static/js/runtime-main.9a6761f7.js",
     "runtime-main.js.map": "/leetcode-patterns/static/js/runtime-main.9a6761f7.js.map",
     "static/css/2.5bd0ccc4.chunk.css": "/leetcode-patterns/static/css/2.5bd0ccc4.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.5bd0ccc4.chunk.css",
     "static/js/2.cbc0407b.chunk.js",
     "static/css/main.2dade6fb.chunk.css",
-    "static/js/main.e820a676.chunk.js"
+    "static/js/main.21cb0335.chunk.js"
   ]
 }
