@@ -1,20 +1,22 @@
-import React, { useState } from 'react';
+import './styles.scss';
+
 import {
-  TabContent,
-  TabPane,
+  Container,
   Nav,
   NavItem,
   NavLink,
-  Container,
+  TabContent,
+  TabPane,
 } from 'reactstrap';
-import classnames from 'classnames';
-import { Event } from '../Shared/Tracking';
+import React, { useState } from 'react';
 
+import classnames from 'classnames';
+
+import Acknowledgements from '../Acknowledgements';
+import { Event } from '../Shared/Tracking';
 import Table from '../Table';
 import Tips from '../Tips';
-import Acknowledgements from '../Acknowledgements';
-
-import './styles.scss';
+import Flashcards from '../Flashcards';
 
 const Tabs = () => {
   const [activeTab, setActiveTab] = useState('1');
@@ -59,6 +61,17 @@ const Tabs = () => {
             Acknowledgements
           </NavLink>
         </NavItem>
+        <NavItem>
+          <NavLink
+            className={classnames({ active: activeTab === '4' })}
+            onClick={() => {
+              toggle('4');
+              Event('Tabs', 'Clicked Tab', 'Flashcards tab');
+            }}
+          >
+            Flashcards
+          </NavLink>
+        </NavItem>
       </Nav>
       <TabContent activeTab={activeTab}>
         <TabPane tabId="1">
@@ -69,6 +82,9 @@ const Tabs = () => {
         </TabPane>
         <TabPane tabId="3">
           <Acknowledgements />
+        </TabPane>
+        <TabPane tabId="4">
+          <Flashcards />
         </TabPane>
       </TabContent>
     </Container>
